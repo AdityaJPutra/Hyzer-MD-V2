@@ -1,7 +1,7 @@
 global.owner = ['62881023471561'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.APIs = { // API Prefix
+global.APIs = {'https://api.zeks.xyz'} // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
     bx: 'https://bx-hunter.herokuapp.com',
@@ -25,7 +25,7 @@ global.APIs = { // API Prefix
   lolhuman: 'https://api.lolhuman.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = {'https://api.zeks.xyz'} // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
   'https://api.xteam.xyz': 'd37372311698ed1d',
